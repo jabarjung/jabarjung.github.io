@@ -1,0 +1,23 @@
+author: 'Jung Sandhu'
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: 'base'
+description: "I’m Jung Sandhu: a programmer, computer engineer, and a homo sapien living in Vancouver."
+exclude:
+  - '.gitignore'
+  - 'CNAME'
+  - 'LICENSE'
+  - 'README.md'
+  - 'sketch'
+keywords: 'jung, jabarjung, sandhu, code, programmer, design, startups, technology, tech, design'
+permalink: pretty
+sass:
+  style: compressed
+  sass_dir: 'assets/styles'
+timezone: America/Los_Angeles
+title: Jung Sandhu
+url: "https://jabarjungsandhu.com"
