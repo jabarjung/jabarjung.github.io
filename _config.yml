@@ -6,7 +6,7 @@ defaults:
       type: 'pages'
     values:
       layout: 'base'
-description: "I’m Jung Sandhu: a programmer, computer engineer, and a homo sapien living in Vancouver."
+description: "I’m Jung Sandhu: a programmer, computer engineer, and homo sapiens living in Vancouver."
 exclude:
   - '.gitignore'
   - 'CNAME'
